@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Dancing+Script&family=Handjet:wght@100;200;300;400;500;600&family=Kanit:ital,wght@0,200;1,200&family=REM:ital,wght@0,200;0,300;0,400;1,300&family=Zeyada&display=swap');
+
+/* 
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Handjet', cursive;
+font-family: 'Kanit', sans-serif;
+font-family: 'REM', sans-serif;
+font-family: 'Zeyada', cursive;
+*/
+
+.navbar{
+    background-attachment:fixed ;
+    background-color: #555552;
+    height: 100px;
+}
+.logo{
+   width: 120px;
+   margin-top: 5px;
+}
+.reg{
+    margin-left:840px;
+    width: 100px;
+    height: 27px;
+    border-style: none;
+    background-size: 30px;
+    padding: 4px;
+}
+.login{
+    margin-left: 1%;
+    width: 100px;
+    height: 27px;
+    border-style: none;
+    padding: 3px;
+}
+.form-control{
+    margin-left: 10px;
+    margin-bottom: 40px;
+    width: 260px;
+    height: 35px;
+}
+h1{
+    font-size: 32px;
+    font-family: 'REM', sans-serif;
+    padding:30px;
+}
+h2{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 8px;
+}
+.row2{
+    margin-top: 30px;
+}
+.col-lg-3{
+    background-color: white;
+    border-radius: 2px; 
+    display: inline block;
+    font-size: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(105, 44, 44, 0.8); 
+   
+}
+.profile{
+   
+    font-size: 20px;
+}
